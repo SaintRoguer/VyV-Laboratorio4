@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Lab4Test" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-10-03T01:09:22" hostname="DESKTOP-5CC2BVL" time="0.046">
+  <properties/>
+  <testcase name="isAPrimeNumber()" classname="Lab4Test" time="0.028"/>
+  <testcase name="isNotAPrimeNumber()" classname="Lab4Test" time="0.004"/>
+  <testcase name="matchWhiteColourWithRGB()" classname="Lab4Test" time="0.005"/>
+  <testcase name="matchGreenColourWithRGB()" classname="Lab4Test" time="0.001"/>
+  <testcase name="doNotReversIfUnevenLastDigitTest()" classname="Lab4Test" time="0.001"/>
+  <testcase name="matchBlueColourWithRGB()" classname="Lab4Test" time="0.001"/>
+  <testcase name="oneIsNotAPrimeNumber()" classname="Lab4Test" time="0.001"/>
+  <testcase name="reverseIfEvenLastDigitTest()" classname="Lab4Test" time="0.001"/>
+  <testcase name="matchRedColourWithRGB()" classname="Lab4Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
