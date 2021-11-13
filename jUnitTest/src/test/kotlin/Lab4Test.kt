@@ -7,7 +7,7 @@ class Lab4Test {
     @Test
     fun reverseIfEvenLastDigitTest() {
         val result = lab4.reverseIfEvenLastDigit(4651198)
-        Assertions.assertEquals(3, result)
+        Assertions.assertEquals(5, result)
     }
 
     @Test
